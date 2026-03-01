@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+C:\Documents\School\cs330\CS330Content2026\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(226,16): warning C4018: '<': signed/unsigned mismatch
+C:\Documents\School\cs330\CS330Content2026\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(464,27): warning C4305: '=': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Documents\School\cs330\CS330Content2026\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
